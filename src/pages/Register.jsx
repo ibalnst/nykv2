@@ -3,7 +3,7 @@ import styled from 'styled-components';
 
 const Container = styled.div`
 width: 100vw;
-height: 1000vh;
+height: 100vh;
 background:
 linear-gradient(rgba(255,255,255,0.3),rgba(255,255,255,0.3)),
 url(https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/ampere/wallpapers/rtx-3090/3090-wallpaper-3440x1440-r1.png);
